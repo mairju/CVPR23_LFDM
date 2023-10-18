@@ -26,13 +26,13 @@ Example Videos
 ------
 All the subjects of the following videos are *unseen* during the training. 
 
-Some generated video results on MUG dataset.
+Some generated video results on MUG dataset:
 
 <div align=center>
 <img src="examples/mug.gif" width="500" height="276"/>
 </div>
 
-Some generated video results on MHAD dataset.
+Some generated video results on MHAD dataset:
 
 <div align=center>
 <img src="examples/mhad1.gif" width="500" height="530"/>
